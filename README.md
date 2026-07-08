@@ -54,12 +54,12 @@ Note: Click on the links below to view the full specification for each Use Case.
 To meet professional QA standards, the project deliverables are structured as follows:
 
 ### 1. Requirements & Workflow Analysis (Manual Testing)
-* API Specification Review: Utilized Swagger UI to analyze API endpoints, required request parameters, header requirements, and schema definitions.
-* Behavior Validation: Validated HTTP response codes (e.g., 200 OK, 201 Created, 400 Bad Request, 404 Not Found) via Postman based on the Swagger specifications.
-* Data Integration: Verified backend payload responses to ensure JSON structures contain correct data types and mandatory fields.
+* Test Scenarios & Test Cases: Developed detailed test steps based on Normal Flows, Alternative Flows, and Exceptions defined in the Use Case Specifications.
+* End-to-End Workflows: Verified critical business flows, such as a full cycle of creating a performance event (UC003), managing the song queue (UC006-UC010), and running live events (UC013-UC014).
 
 ### 2. Integration & API Testing
-* Behavior Validation: Validated HTTP response codes (e.g., 200 OK, 201 Created, 400 Bad Request, 404 Not Found) against the API Specification.
+* API Specification Review: Utilized Swagger UI to analyze API endpoints, required request parameters, header requirements, and schema definitions.
+* Behavior Validation: Validated HTTP response codes (e.g., 200 OK, 201 Created, 400 Bad Request, 404 Not Found) via Postman based on the Swagger specifications.
 * Data Integration: Verified backend payload responses to ensure JSON structures contain correct data types and mandatory fields.
 
 ### 3. Defect Management & Reporting
