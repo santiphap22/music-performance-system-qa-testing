@@ -17,7 +17,7 @@
 ### Workflows & Flow of Events
 
 #### 8. Normal Flow
-11. System admin เลือก "Account Config" จากหน้า Main Menu 
+1. System admin เลือก "Account Config" จากหน้า Main Menu 
     - ระบบแสดงชื่อผู้ใช้ที่ยังใช้งานในระบบได้อยู่ 
 2. System admin เลือกผู้ใช้จากรายการชื่อทั้งหมดที่มี 
     - System admin ทำการกด checkbox ตามบัญชีที่ต้องการทำการปิดบัญชี 
