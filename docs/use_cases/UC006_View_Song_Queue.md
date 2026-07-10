@@ -10,7 +10,7 @@
 | **6. Preconditions** | PRE-1 Backstage มีการเพิ่มงานแสดงดนตรีลงไปในระบบแล้ว<br> PRE-2 Backstage ได้เพิ่มเพลงลงไปในงานแสดงดนตรีนั้น ๆแล้ว<br> PRE-3 User ทำการยืนยันตัวตนสำเร็จ |
 | **7. Postconditions** | POST-1 User ดู queue เพลงสำเร็จ |
 | **11. Priority** | High |
-| **12. Frequency of Use** | 1-10 ครั้งต่อหนึ่งงานดนตร |
+| **12. Frequency of Use** | 1-10 ครั้งต่อหนึ่งงานดนตรี |
 
 ---
 
