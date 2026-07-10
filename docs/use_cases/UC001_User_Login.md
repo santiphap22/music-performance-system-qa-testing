@@ -1,4 +1,4 @@
-# Use Case Specification: Login
+# Use Case Specification: รายละเอียดกรณีการใช้งานเข้าสู่ระบบ 
 
 | Use Case Attribute | Specification Details |
 | :--- | :--- |
