@@ -8,7 +8,7 @@
 | **4. Description** | System admin สามารถเพิ่ม User ใหม่ให้สามารถเข้าใช้งานระบบได้ |
 | **5. Trigger** | System admin ต้องการเพิ่ม User เพื่อใช้งานในระบบ |
 | **6. Preconditions** | PRE-1 System admin มีข้อมูล Google form ที่สมาชิกได้ทำ<br>การกรอกตอนสมัครเข้า Sci Band <br> PRE-2 System admin ยืนยันตัวตนสำเร็จ <br> PRE-3 System admin และสมาชิกต้องทำการตรวจสอบความถูกต้องของข้อมูล<br>ใน Google form ก่อน |
-| **7. Postconditions** | POST-1 ข้อมูลบัญชีผู้ใช้ถูกเพิ่มลงในฐานข้อมูล <br>POST-2 User นั ้น ๆ สามารถเข้าสู่ระบบได้  |
+| **7. Postconditions** | POST-1 ข้อมูลบัญชีผู้ใช้ถูกเพิ่มลงในฐานข้อมูล <br>POST-2 User นั้น ๆ สามารถเข้าสู่ระบบได้  |
 | **11. Priority** | High |
 | **12. Frequency of Use** | 1 - 5 ครั้งต่อปี |
 
