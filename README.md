@@ -25,7 +25,7 @@ Note: Click on the links below to view the full specification for each Use Case.
 
 | Use Case ID | Requirement / Use Case Name | Primary Actor | Description | Documentation Link |
 | :---: | :---: | :---: | :---: | :---: |
-| 1. | login | User ทุกประเภท| User สามารถเข้าสู่ระบบเพื่อใช้งานแอปพลิเคชันตามสิทธิ์ของตนเองได้ | [View Full Spec](./docs/use_cases/UC001_User_Registration.md) |
+| 1. | login | User ทุกประเภท| User สามารถเข้าสู่ระบบเพื่อใช้งานแอปพลิเคชันตามสิทธิ์ของตนเองได้ | [View Full Spec](docs/use_cases/UC001_User_Login.md) |
 | 2. | ดูรายละเอียดงานแสดงดนตรี | User ทุกประเภท | User ทุกคนสามารถดูรายละเอียดงานแสดงดนตรีแต่ละงาน เพื่อทราบถึงข้อมูลงานแสดงนั้นๆได้ | [View Full Spec](./docs/use_cases/UC002_User_Login.md) |
 | 3. | สร้างงานแสดงดนตรี | Backstage | Backstage สามารถสร้างงานแสดงดนตรีขึ้นมาเพื่อนำข้อมูลเข้าสู่ระบบและเพื่อให้ผู้ใช้ทุกคนสามารถเข้ามาดูรายละเอียดได้ | [View Full Spec](./docs/use_cases/UC002_User_Login.md) |
 | 4. | แก้ไขรายละเอียดงานแสดงดนตรี | Backstage | Backstage สามารถการแก้ไขรายละเอียดงานแสดงดนตรีที่สร้างเอาไว้ เช่น ชื่อ วันเวลา | [View Full Spec](./docs/use_cases/UC002_User_Login.md) |
