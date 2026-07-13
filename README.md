@@ -75,6 +75,24 @@ To meet professional QA standards, the project deliverables are structured as fo
 │   ├── use_cases/                 # Detailed Use Case Specifications (UC001 - UC020)
 │   │   ├── UC001_User_Login.md
 │   │   └── UC002_View_Performance_Details.md
+│   │   └── UC003_Create_Performance.md
+│   │   └── UC004_Update_Performance_Details.md
+│   │   └── UC005_Delete_Performance.md
+│   │   └── UC006_View_Song_Queue.md
+│   │   └── UC007_Add_Song_To_Queue.md
+│   │   └── UC008_Update_Song_In_Queue.md
+│   │   └── UC009_Move_Song_Queue.md
+│   │   └── UC010_Delete_Song_From_Queue.md
+│   │   └── UC011_View_Song_Details.md
+│   │   └── UC012_Assign_Song_To_Performer.md
+│   │   └── UC013_Run_Event.md
+│   │   └── UC014_Select_Next_Song.md
+│   │   └── UC015_Notify_Queue_To_Performer.md
+│   │   └── UC016_Remove_User_From_System.md
+│   │   └── UC017_Add_User_Account.md
+│   │   └── UC018_View_Profile.md
+│   │   └── UC019_User_Logout.md
+│   │   └── UC020_Transfer_System_Admin_Role.md
 │   ├── test_cases/                # Manual Test Case sheets (Happy Path / Negative Cases)
 │   └── api_testing/               # API Spec mappings and Postman collections
 └── defects/                       # Documented Defect/Bug Reports
